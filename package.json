@@ -1,0 +1,42 @@
+{
+    "author": "andyhsstudent@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pong",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Pong",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/menuIcon.png",
+                    "menuIcon": true,
+                    "name": "MenuIcon",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/field.png",
+                    "name": "BACKGROUND",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "6754de6f-bb31-4602-8e04-59fd0a46c9e9",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
